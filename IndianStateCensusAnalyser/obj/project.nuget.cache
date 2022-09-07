@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDNi+ARzzDS3ToHw3HoNT3IeYyQ2zFdarMNlSqRfNOLhPocyzvoKeaox9NSJUiiqnDyj5g4tjxpLu4cufEWM9g==",
+  "success": true,
+  "projectFilePath": "E:\\c#\\IndianCensusAnalyser\\IndianStateCensusAnalyser\\IndianStateCensusAnalyser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\world\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
+    "C:\\Users\\world\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\world\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
